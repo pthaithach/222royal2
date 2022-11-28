@@ -1,0 +1,38 @@
+{
+    "data": {
+        "store"     : "Royal Nail Spa",
+        "slug"      : "Royal-nail-spa",
+        "phone"     : "(229) 423-9758",
+        "email"     : "royalnailspabyhm@gmail.com",
+        "address"   : "262 Ocilla Hwy Ste 8, Fitzgerald, Georgia 31750",
+        "state"     : "Georgia 31750",
+        "ward"      : "Fitzgerald",
+        "time_1"    : "Mon: Closed",
+        "time_2"    : "Tue - Sat: 09:30 AM - 07:30 PM",
+        "time_3"    : "Sun: 11:00 AM - 04:30 PM"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/royalnailspabykc",
+        "instagram" :   "https://www.instagram.com/royalnailspa.ga31750",
+        "google"    :   "https://goo.gl/maps/iQqeL2nKbitc9a8T9",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDk0OTJ8cm95YWxuYWlsMjYyfEdBXzA4MTI0fDMxZjJmMzNmOGY4MmVhNmUyMWU0NTI5OWUyZGI5YTk4",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3394.7910421313795!2d-83.24710724876375!3d31.6942798812207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f1c36db1ecb08f%3A0xadf4d0c8e1af8e98!2sRoyal%20Nail%20Spa%20(%20COLONY%20SQUARE%20SHOPPING%20CENTER%20)!5e0!3m2!1sen!2s!4v1669282479363!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#971319",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
